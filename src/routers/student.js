@@ -164,3 +164,13 @@ router.get('/students',loginAuth, async(req,res)=>{
 
 )
 module.exports=router
+
+
+
+// echo "# restfulapi" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/NazmulKhan-2009/restfulapi.git
+// git push -u origin main
